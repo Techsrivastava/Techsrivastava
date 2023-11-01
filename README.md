@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👋 About Me<br><br>I'm a passionate software developer and open-source enthusiast. My journey in the world of technology has been an exciting adventure, and I love to explore new frontiers in the digital realm.<br><br>🌍 Currently, I'm based in Prayagraj and I work as a freelance.<br>- 💻 Full-stack web development<br>- 📱 Mobile app development<br>- 🌐 Open-source contributions<br>- 🤖 Artificial Intelligence and Machine Learning<br><br>🔗 You can find more about my projects and contributions on my [GitHub profile](https://github.com/YourUsername).<br><br>Feel free to reach out to me via mailto:Adarsh00761@gmail.com or connect on https://www.linkedin.com/in/adarsh-sarivastava-3422a023b/ if you'd like to collaborate or just have a tech chat!<br><br>Let's build amazing things together! 💡<br>
 
 
